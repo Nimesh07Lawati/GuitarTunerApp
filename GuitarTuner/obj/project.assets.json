@@ -581,6 +581,19 @@
           }
         }
       },
+      "Plugin.AudioRecorder/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/monoandroid81/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/monoandroid81/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
       "System.Buffers/4.5.0": {
         "type": "package",
         "compile": {
@@ -2969,6 +2982,19 @@
           }
         }
       },
+      "Plugin.AudioRecorder/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/monoandroid81/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/monoandroid81/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
       "System.Buffers/4.5.0": {
         "type": "package",
         "compile": {
@@ -5338,6 +5364,19 @@
         "runtime": {
           "lib/netstandard2.0/NAudio.WinMM.dll": {
             "related": ".xml"
+          }
+        }
+      },
+      "Plugin.AudioRecorder/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/monoandroid81/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/monoandroid81/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
           }
         }
       },
@@ -7713,6 +7752,19 @@
           }
         }
       },
+      "Plugin.AudioRecorder/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/monoandroid81/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/monoandroid81/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
       "System.Buffers/4.5.0": {
         "type": "package",
         "compile": {
@@ -10082,6 +10134,19 @@
         "runtime": {
           "lib/netstandard2.0/NAudio.WinMM.dll": {
             "related": ".xml"
+          }
+        }
+      },
+      "Plugin.AudioRecorder/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/monoandroid81/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/monoandroid81/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
           }
         }
       },
@@ -12457,6 +12522,19 @@
           }
         }
       },
+      "Plugin.AudioRecorder/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/monoandroid81/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/monoandroid81/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
       "System.Buffers/4.5.0": {
         "type": "package",
         "compile": {
@@ -14826,6 +14904,19 @@
         "runtime": {
           "lib/netstandard2.0/NAudio.WinMM.dll": {
             "related": ".xml"
+          }
+        }
+      },
+      "Plugin.AudioRecorder/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/monoandroid81/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/monoandroid81/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
           }
         }
       },
@@ -17201,6 +17292,19 @@
           }
         }
       },
+      "Plugin.AudioRecorder/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/monoandroid81/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/monoandroid81/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
       "System.Buffers/4.5.0": {
         "type": "package",
         "compile": {
@@ -19558,6 +19662,19 @@
           }
         }
       },
+      "Plugin.AudioRecorder/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
       "System.Security.AccessControl/4.7.0": {
         "type": "package",
         "dependencies": {
@@ -20150,6 +20267,19 @@
           }
         }
       },
+      "Plugin.AudioRecorder/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
       "System.Security.AccessControl/4.7.0": {
         "type": "package",
         "dependencies": {
@@ -20723,6 +20853,19 @@
         "runtime": {
           "lib/netstandard2.0/NAudio.WinMM.dll": {
             "related": ".xml"
+          }
+        }
+      },
+      "Plugin.AudioRecorder/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
           }
         }
       },
@@ -21302,6 +21445,19 @@
           }
         }
       },
+      "Plugin.AudioRecorder/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
       "System.Security.AccessControl/4.7.0": {
         "type": "package",
         "dependencies": {
@@ -21875,6 +22031,19 @@
         "runtime": {
           "lib/netstandard2.0/NAudio.WinMM.dll": {
             "related": ".xml"
+          }
+        }
+      },
+      "Plugin.AudioRecorder/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
           }
         }
       },
@@ -22454,6 +22623,19 @@
           }
         }
       },
+      "Plugin.AudioRecorder/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
       "System.Security.AccessControl/4.7.0": {
         "type": "package",
         "dependencies": {
@@ -23030,6 +23212,19 @@
           }
         }
       },
+      "Plugin.AudioRecorder/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
       "System.Security.AccessControl/4.7.0": {
         "type": "package",
         "dependencies": {
@@ -23603,6 +23798,19 @@
         "runtime": {
           "lib/netstandard2.0/NAudio.WinMM.dll": {
             "related": ".xml"
+          }
+        }
+      },
+      "Plugin.AudioRecorder/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
           }
         }
       },
@@ -24189,6 +24397,19 @@
         "runtime": {
           "lib/netstandard2.0/NAudio.WinMM.dll": {
             "related": ".xml"
+          }
+        }
+      },
+      "Plugin.AudioRecorder/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
           }
         }
       },
@@ -24784,6 +25005,19 @@
           }
         }
       },
+      "Plugin.AudioRecorder/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
       "System.Security.AccessControl/4.7.0": {
         "type": "package",
         "dependencies": {
@@ -25357,6 +25591,19 @@
         "runtime": {
           "lib/netstandard2.0/NAudio.WinMM.dll": {
             "related": ".xml"
+          }
+        }
+      },
+      "Plugin.AudioRecorder/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
           }
         }
       },
@@ -25936,6 +26183,19 @@
           }
         }
       },
+      "Plugin.AudioRecorder/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
       "System.Security.AccessControl/4.7.0": {
         "type": "package",
         "dependencies": {
@@ -26509,6 +26769,19 @@
         "runtime": {
           "lib/netstandard2.0/NAudio.WinMM.dll": {
             "related": ".xml"
+          }
+        }
+      },
+      "Plugin.AudioRecorder/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
           }
         }
       },
@@ -27088,6 +27361,19 @@
           }
         }
       },
+      "Plugin.AudioRecorder/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
       "System.Security.AccessControl/4.7.0": {
         "type": "package",
         "dependencies": {
@@ -27664,6 +27950,19 @@
           }
         }
       },
+      "Plugin.AudioRecorder/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
       "System.Security.AccessControl/4.7.0": {
         "type": "package",
         "dependencies": {
@@ -28237,6 +28536,19 @@
         "runtime": {
           "lib/netstandard2.0/NAudio.WinMM.dll": {
             "related": ".xml"
+          }
+        }
+      },
+      "Plugin.AudioRecorder/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
           }
         }
       },
@@ -29015,6 +29327,19 @@
           }
         }
       },
+      "Plugin.AudioRecorder/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
       "System.Security.AccessControl/4.7.0": {
         "type": "package",
         "dependencies": {
@@ -29756,6 +30081,19 @@
           }
         }
       },
+      "Plugin.AudioRecorder/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
       "System.Security.AccessControl/4.7.0": {
         "type": "package",
         "dependencies": {
@@ -30478,6 +30816,19 @@
         "runtime": {
           "lib/netstandard2.0/NAudio.WinMM.dll": {
             "related": ".xml"
+          }
+        }
+      },
+      "Plugin.AudioRecorder/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
           }
         }
       },
@@ -31206,6 +31557,19 @@
           }
         }
       },
+      "Plugin.AudioRecorder/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
       "System.Security.AccessControl/4.7.0": {
         "type": "package",
         "dependencies": {
@@ -31928,6 +32292,19 @@
         "runtime": {
           "lib/netstandard2.0/NAudio.WinMM.dll": {
             "related": ".xml"
+          }
+        }
+      },
+      "Plugin.AudioRecorder/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
           }
         }
       },
@@ -32656,6 +33033,19 @@
           }
         }
       },
+      "Plugin.AudioRecorder/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
       "System.Security.AccessControl/4.7.0": {
         "type": "package",
         "dependencies": {
@@ -33378,6 +33768,19 @@
         "runtime": {
           "lib/netstandard2.0/NAudio.WinMM.dll": {
             "related": ".xml"
+          }
+        }
+      },
+      "Plugin.AudioRecorder/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
           }
         }
       },
@@ -34109,6 +34512,19 @@
         "runtime": {
           "lib/netstandard2.0/NAudio.WinMM.dll": {
             "related": ".xml"
+          }
+        }
+      },
+      "Plugin.AudioRecorder/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "related": ".pdb"
           }
         }
       },
@@ -36463,6 +36879,26 @@
         "naudio.winmm.nuspec"
       ]
     },
+    "Plugin.AudioRecorder/1.1.0": {
+      "sha512": "qa8tAuqWeIKfnFLVKhGgaHhbtw7T2Ec/5smgJstyatQ97uViUIqAVTpzdyij11VOovxTGXO4xBBkYanJmzv21g==",
+      "type": "package",
+      "path": "plugin.audiorecorder/1.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/monoandroid81/Plugin.AudioRecorder.dll",
+        "lib/monoandroid81/Plugin.AudioRecorder.pdb",
+        "lib/netcore50/Plugin.AudioRecorder.dll",
+        "lib/netcore50/Plugin.AudioRecorder.pdb",
+        "lib/netstandard2.0/Plugin.AudioRecorder.dll",
+        "lib/netstandard2.0/Plugin.AudioRecorder.pdb",
+        "lib/portable45-net45+win8+wpa81/Plugin.AudioRecorder.dll",
+        "lib/xamarinios10/Plugin.AudioRecorder.dll",
+        "lib/xamarinios10/Plugin.AudioRecorder.pdb",
+        "plugin.audiorecorder.1.1.0.nupkg.sha512",
+        "plugin.audiorecorder.nuspec"
+      ]
+    },
     "System.Buffers/4.5.0": {
       "sha512": "pL2ChpaRRWI/p4LXyy4RgeWlYF2sgfj/pnVMvBqwNFr5cXg7CXNnWZWxrOONLg8VGdFB8oB+EG2Qw4MLgTOe+A==",
       "type": "package",
@@ -38636,27 +39072,31 @@
       "Microsoft.Maui.Controls >= 8.0.82",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.82",
       "Microsoft.NET.ILLink.Tasks >= 8.0.10",
-      "NAudio >= 2.2.1"
+      "NAudio >= 2.2.1",
+      "Plugin.AudioRecorder >= 1.1.0"
     ],
     "net8.0-ios18.0": [
       "Microsoft.Extensions.Logging.Debug >= 8.0.0",
       "Microsoft.Maui.Controls >= 8.0.82",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.82",
       "Microsoft.NET.ILLink.Tasks >= 8.0.10",
-      "NAudio >= 2.2.1"
+      "NAudio >= 2.2.1",
+      "Plugin.AudioRecorder >= 1.1.0"
     ],
     "net8.0-maccatalyst18.0": [
       "Microsoft.Extensions.Logging.Debug >= 8.0.0",
       "Microsoft.Maui.Controls >= 8.0.82",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.82",
       "Microsoft.NET.ILLink.Tasks >= 8.0.10",
-      "NAudio >= 2.2.1"
+      "NAudio >= 2.2.1",
+      "Plugin.AudioRecorder >= 1.1.0"
     ],
     "net8.0-windows10.0.19041": [
       "Microsoft.Extensions.Logging.Debug >= 8.0.0",
       "Microsoft.Maui.Controls >= 8.0.82",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.82",
-      "NAudio >= 2.2.1"
+      "NAudio >= 2.2.1",
+      "Plugin.AudioRecorder >= 1.1.0"
     ]
   },
   "packageFolders": {
@@ -38746,6 +39186,10 @@
           "NAudio": {
             "target": "Package",
             "version": "[2.2.1, )"
+          },
+          "Plugin.AudioRecorder": {
+            "target": "Package",
+            "version": "[1.1.0, )"
           }
         },
         "imports": [
@@ -38793,6 +39237,10 @@
           "NAudio": {
             "target": "Package",
             "version": "[2.2.1, )"
+          },
+          "Plugin.AudioRecorder": {
+            "target": "Package",
+            "version": "[1.1.0, )"
           }
         },
         "imports": [
@@ -38840,6 +39288,10 @@
           "NAudio": {
             "target": "Package",
             "version": "[2.2.1, )"
+          },
+          "Plugin.AudioRecorder": {
+            "target": "Package",
+            "version": "[1.1.0, )"
           }
         },
         "imports": [
@@ -38882,6 +39334,10 @@
           "NAudio": {
             "target": "Package",
             "version": "[2.2.1, )"
+          },
+          "Plugin.AudioRecorder": {
+            "target": "Package",
+            "version": "[1.1.0, )"
           }
         },
         "imports": [
