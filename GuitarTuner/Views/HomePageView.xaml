@@ -17,7 +17,7 @@
                HorizontalOptions="Center"/>
 
         <!-- Frequency Display -->
-        <Label x:Name="FrequencyLabel"
+        <Label
                Text="440 Hz"
                FontSize="40"
                FontAttributes="Bold"
@@ -59,7 +59,7 @@
         </ScrollView>
 
         <!-- Status Message -->
-        <Label x:Name="StatusLabel"
+        <Label 
                Text="Tuning..."
                FontSize="18"
                TextColor="White"
