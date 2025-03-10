@@ -45,3 +45,9 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = GuitarTuner.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/STAR/source/repos/GuitarTuner/GuitarTuner/Views/HomePageView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GuitarTuner.Views.HomePageView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\HomePageView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\HomePageView.xaml

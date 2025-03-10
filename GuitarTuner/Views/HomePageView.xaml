@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GuitarTuner.Views.HomePageView"
+             BackgroundColor="#1E1E1E"
+            >
+    <VerticalStackLayout Spacing="20"
+                         Padding="20"
+                         VerticalOptions="Center"
+                         HorizontalOptions="FillAndExpand">
+
+        <!-- Tuner Title -->
+        <Label Text="Guitar Tuner"
+               FontSize="30"
+               FontAttributes="Bold"
+               TextColor="White"
+               HorizontalOptions="Center"/>
+
+        <!-- Frequency Display -->
+        <Label x:Name="FrequencyLabel"
+               Text="440 Hz"
+               FontSize="40"
+               FontAttributes="Bold"
+               TextColor="#FFD700"
+               HorizontalOptions="Center"/>
+
+        <!-- Circular Tuning Indicator -->
+        <Border StrokeThickness="2"
+                Stroke="#FFD700"
+                BackgroundColor="#333333"
+                Padding="40"
+                HeightRequest="200"
+                WidthRequest="200"
+                HorizontalOptions="Center">
+
+            <Border.StrokeShape>
+                <RoundRectangle CornerRadius="100"/>
+            </Border.StrokeShape>
+
+            <Label 
+                   Text="A"
+                   FontSize="50"
+                   FontAttributes="Bold"
+                   TextColor="White"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center"/>
+        </Border>
+
+        <!-- String Selection Buttons -->
+        <ScrollView Orientation="Horizontal">
+            <HorizontalStackLayout Spacing="15" Padding="10">
+                <Button Text="E" WidthRequest="60" BackgroundColor="#FFD700" CornerRadius="30"/>
+                <Button Text="A" WidthRequest="60" BackgroundColor="#FFD700" CornerRadius="30"/>
+                <Button Text="D" WidthRequest="60" BackgroundColor="#FFD700" CornerRadius="30"/>
+                <Button Text="G" WidthRequest="60" BackgroundColor="#FFD700" CornerRadius="30"/>
+                <Button Text="B" WidthRequest="60" BackgroundColor="#FFD700" CornerRadius="30"/>
+                <Button Text="e" WidthRequest="60" BackgroundColor="#FFD700" CornerRadius="30"/>
+            </HorizontalStackLayout>
+        </ScrollView>
+
+        <!-- Status Message -->
+        <Label x:Name="StatusLabel"
+               Text="Tuning..."
+               FontSize="18"
+               TextColor="White"
+               HorizontalOptions="Center"/>
+
+    </VerticalStackLayout>
+</ContentPage>
