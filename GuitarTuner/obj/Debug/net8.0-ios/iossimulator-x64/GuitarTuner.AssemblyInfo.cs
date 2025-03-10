@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GuitarTuner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+56349fccfddf661513fe271567efc526348e8ea6")]
 [assembly: System.Reflection.AssemblyProductAttribute("GuitarTuner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GuitarTuner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

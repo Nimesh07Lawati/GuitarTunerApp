@@ -4,8 +4,8 @@
              x:Class="GuitarTuner.MainPage">
 
     <ScrollView>
-        <VerticalStackLayout
-        <Label Text="This is guitar Tuner App"/>
+        <VerticalStackLayout>
+            <Label Text="This is guitar Tuner App"/>
         </VerticalStackLayout>
     </ScrollView>
 
