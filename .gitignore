@@ -1,12 +1,47 @@
-﻿################################################################################
+################################################################################
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+# Visual Studio specific files
 .vs/
-bin/
-obj/
 *.suo
 *.user
 *.cache
 *.pdb
 *.log
+
+# Build output
+bin/
+obj/
+
+# Maui specific files
+.platforms/
+*.apk
+*.aab
+*.ipa
+*.app
+*.xcworkspace/
+*.xcuserdata/
+*.ds_store
+
+# User-specific files
+*.swp
+*.sln.iml
+*.sln.cache
+*.userprefs
+*.tmp
+
+# Dependency directories
+node_modules/
+packages/
+
+# Secrets (optional, if you store them)
+secrets.json
+
+# JetBrains Rider & ReSharper
+.idea/
+*.dotSettings.user
+
+# macOS/Linux
+.DS_Store
+
